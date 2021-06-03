@@ -1,0 +1,15 @@
+.GameOverScreen {
+  animation: dissolve-go 2s;
+  position: fixed;
+  width: 30%;
+  height: 30%;
+  z-index: 20;
+  background-color: #ec382b;
+  padding: 20px;
+  transition: all 0.4s;
+  color: #fafafa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5em;
+}

@@ -1,0 +1,13 @@
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 70%;
+  margin: 0 auto;
+}
+
+.CardsGrid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}

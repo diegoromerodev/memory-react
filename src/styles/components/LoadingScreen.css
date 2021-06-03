@@ -1,0 +1,9 @@
+.LoadingScreen {
+  position: fixed;
+  background-color: beige;
+  padding: 20px;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 50vh;
+}
